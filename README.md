@@ -25,7 +25,7 @@
 </div>
 
 <div>
-    <strong>CVPR 2025</strong>
+    <strong>CVPR 2025 (Highlight)</strong>
 </div>
 
 <div>
