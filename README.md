@@ -42,7 +42,7 @@
               alt="SeedVR Codebase"
             />
         </a>
-        <a href="https://huggingface.co/ByteDance-Seed/SeedVR-Models">
+        <a href="https://huggingface.co/models?other=seedvr">
           <img 
               src="https://img.shields.io/badge/SeedVR-Models-yellow?logo=huggingface&logoColor=yellow" 
               alt="SeedVR Models"
@@ -62,7 +62,7 @@
 </div>
 
 ## 🔥 Update
-- [2025.06] 🔥🔥🔥 [Inference code](https://github.com/ByteDance-Seed/SeedVR/tree/main) and [model weights](https://huggingface.co/ByteDance-Seed/SeedVR-Models) released!
+- [2025.06] 🔥🔥🔥 [Inference code](https://github.com/ByteDance-Seed/SeedVR/tree/main) and [model weights](https://huggingface.co/models?other=seedvr) released!
 - [2025.03] Repo created. The open-source process depends on the company policy and we will keep updating the news in this page.
 
 ---
