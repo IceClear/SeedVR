@@ -1,9 +1,13 @@
 <div align="center">
+  <img src="https://github.com/IceClear/SeedVR2/blob/main/assets/seedvr_logo.png" alt="SeedVR" width="400"/>
+</div>
 
-<h2>
+<div align="center">
+
+<h1>
     SeedVR:<br> 
     Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration
-</h2>
+</h1>
 
 <div>
     <a href='https://iceclear.github.io' target='_blank'>Jianyi Wang<sup>1,2</sup></a>&emsp;
@@ -32,6 +36,18 @@
         <a href="https://arxiv.org/abs/2501.01320" target='_blank'>
         <img src="https://img.shields.io/badge/arXiv-2501.01320-b31b1b.svg">
         </a>
+        <a href="https://github.com/ByteDance-Seed/SeedVR">
+            <img 
+              alt="Github" src="https://img.shields.io/badge/SeedVR-Codebase-536af5?color=536af5&logo=github"
+              alt="SeedVR Codebase"
+            />
+        </a>
+        <a href="https://huggingface.co/ByteDance-Seed/SeedVR-Models">
+          <img 
+              src="https://img.shields.io/badge/SeedVR-Models-yellow?logo=huggingface&logoColor=yellow" 
+              alt="SeedVR Models"
+          />
+        </a>
         <img src="https://visitor-badge.laobi.icu/badge?page_id=IceClear/SeedVR">
     </h4>
 </div>
@@ -46,6 +62,7 @@
 </div>
 
 ## 🔥 Update
+- [2025.06] 🔥🔥🔥 [Inference code](https://github.com/ByteDance-Seed/SeedVR/tree/main) and [model weights](https://huggingface.co/ByteDance-Seed/SeedVR-Models) released!
 - [2025.03] Repo created. The open-source process depends on the company policy and we will keep updating the news in this page.
 
 ---
@@ -68,7 +85,7 @@
 
 ## 📝 License
 
-This project is under the copyright of [ByteDance Pte Ltd](https://www.bytedance.com/en/). Redistribution and use should get the permission from [ByteDance Pte Ltd](https://www.bytedance.com/en/).
+This project is under the copyright of [ByteDance Seed](https://github.com/ByteDance-Seed). Redistribution and use should get permission from [ByteDance Seed](https://github.com/ByteDance-Seed).
 
 
 ## 📧 Contact
